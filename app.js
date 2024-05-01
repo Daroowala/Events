@@ -19,3 +19,7 @@ function Linkbtn(){
 function imgbtn(){
     alert("Car Image Button Done")
 }
+function getname(){
+    var name = document.getElementById("ans");
+    alert(name.value)
+}
