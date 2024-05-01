@@ -10,3 +10,12 @@ function foo(){
 function too(Greet){
     alert(Greet)
 }
+function clickbtn(){
+    alert("WoooW!!")
+}
+function Linkbtn(){
+    alert("Link Done!")
+}
+function imgbtn(){
+    alert("Car Image Button Done")
+}
